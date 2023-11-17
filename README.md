@@ -6,7 +6,7 @@
 
 <h3>🎓 I am Dmytriy Kyselov, a Front End Web Developer (specializing in React Applications)</h2>
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2023, I learned **TypeScript**, **Vue.js**. Currently developing my skills **Next.js**
+👨‍💻 I am really enthusiastic about learning new technology. In 2023, I learned **Vue.js**. Currently developing my skills **TypeScript**.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar** and **caraoke** to some like **swimming**.
 
